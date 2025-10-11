@@ -1,0 +1,21 @@
+Eternal Champions (Mega Drive)
+Traducción al español por PeterDelta
+
+--------------
+Instrucciones:
+--------------
+* Para parchear la rom puedes usar LunarIPS o Floating IPS.
+* Si el emulador soporta parches ips, ponlo en la misma carpeta 
+que el juego con el mismo nombre.
+
+* Archivo utilizado:
+Eternal Champions (USA).md
+MD5: bde8b2396241aa27463ca875e604b8d3
+SHA1: 5e978217c10b679a42d7d2966a4ccb77e1715962
+CRC32: 48F1A42E
+
+------
+Notas:
+------
+* Traducidos todos los menus. 
+* La historia y las biografias estan comprimidas y no es posible.
