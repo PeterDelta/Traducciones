@@ -1,0 +1,20 @@
+Spatter (Mega Drive Mini II) v1.0
+Traducción al español por PeterDelta
+
+--------------
+Instrucciones:
+--------------
+* Para parchear la rom puedes usar LunarIPS o Floating IPS.
+* Si el emulador soporta parches ips, ponlo en la misma carpeta 
+que el juego con el mismo nombre.
+
+* Archivo utilizado:
+Spatter (USA, Japan).bin
+MD5: ebba6c85edac967ecc59e793fa1e1630
+SHA1: 8912a78f8699668da6a7ee7a881f98d051c16e48
+CRC32: 84081204
+
+------
+Notas:
+------
+* Funciona en emulador.

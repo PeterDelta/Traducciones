@@ -1,0 +1,20 @@
+Star Mobile (Mega Drive Mini II) v1.0
+Traducción al español por PeterDelta
+
+--------------
+Instrucciones:
+--------------
+* Para parchear la rom puedes usar LunarIPS o Floating IPS.
+* Si el emulador soporta parches ips, ponlo en la misma carpeta 
+que el juego con el mismo nombre.
+
+* Archivo utilizado:
+Star Mobile (USA).bin
+MD5: b44c1bb75a4bf3d340e2dccf65e91d0e
+SHA1: b52517cfe78d752b3082c24a31b2b536d4c4acde
+CRC32: 39466559
+
+------
+Notas:
+------
+* Exclusivo de la Sega Mega Drive Mini II. Funciona en emulador.
