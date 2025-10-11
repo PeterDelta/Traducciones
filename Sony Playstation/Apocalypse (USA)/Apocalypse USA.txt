@@ -1,0 +1,15 @@
+Apocalypse - USA (Playstation) v1.0
+Traducción al español por PeterDelta
+https://peterdelta.blogspot.com/
+
+——————————————
+INSTRUCCIONES:
+——————————————
+* Duckstation soporta parches .ppf. No es necesario hacer nada en la imagen.
+* Con la herramienta "PPF Manager" se puede aplicar el parche en la imagen y deshacerlo,
+  manteniendo la imagen exacta del disco original. Así se evita tener varios backups.
+
+* Archivo utilizado:
+  Apocalypse (USA).bin
+  Región : SLUS-00373
+  CRC    : F26C0D25

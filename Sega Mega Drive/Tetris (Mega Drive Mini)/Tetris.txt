@@ -1,0 +1,20 @@
+Tetris (Mega Drive Mini) v1.0
+Traducción al español por PeterDelta
+
+--------------
+Instrucciones:
+--------------
+* Para parchear la rom puedes usar LunarIPS o Floating IPS.
+* Si el emulador soporta parches ips, ponlo en la misma carpeta 
+que el juego con el mismo nombre.
+
+* Archivo utilizado:
+eu_en_Tetris.bin (Extraído de la Mega Drive Mini)
+MD5: 9ffa2c2e2f57ed445490306fc367bbe5
+SHA1: 1079fee1fd044f16caf641d6b96f84143a6ceceb
+CRC32: C8DD8841
+
+------
+Notas:
+------
+

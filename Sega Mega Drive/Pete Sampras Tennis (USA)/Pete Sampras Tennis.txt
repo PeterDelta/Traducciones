@@ -1,0 +1,20 @@
+Pete Sampras Tennis (Mega Drive) v1.0
+Traducción al español por PeterDelta
+
+--------------
+Instrucciones:
+--------------
+* Para parchear la rom puedes usar LunarIPS o Floating IPS.
+* Si el emulador soporta parches ips, ponlo en la misma carpeta 
+que el juego con el mismo nombre.
+
+* Archivo utilizado:
+Pete Sampras Tennis (USA, Europe) (Rev 1) (MDST17FF) (J-Cart).md
+MD5: 734535160fb214c69405c90eb58a93be
+SHA1: 222a66cdb8865a7f89e5a72418413888bb400176
+CRC32: 9EF5BBD1
+
+------
+Notas:
+------
+

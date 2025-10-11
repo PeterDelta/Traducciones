@@ -1,0 +1,20 @@
+Arcade Classics (Mega Drive) v1.0
+Traducción al español por PeterDelta
+
+--------------
+Instrucciones:
+--------------
+* Para parchear la rom puedes usar LunarIPS o Floating IPS.
+* Si el emulador soporta parches ips, ponlo en la misma carpeta 
+que el juego con el mismo nombre.
+
+* Archivo utilizado:
+Arcade Classics (USA, Europe).md
+MD5: 1c0b65d3cc82f56f7ad05ce63dc4d097
+SHA1: ec29aec7848dbcea6678adb4b31deba0a6ecf1e2
+CRC32: 8AED2090
+
+------
+Notas:
+------
+* Completamente traducido

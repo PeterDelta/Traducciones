@@ -1,0 +1,22 @@
+Rayman - PAL (Playstation) v1.04
+Traducción al español por PeterDelta
+https://peterdelta.blogspot.com/
+
+——————————————
+INSTRUCCIONES:
+——————————————
+* Duckstation soporta parches .ppf. No es necesario hacer nada en la imagen.
+* Con la herramienta "PPF Manager" se puede aplicar el parche en la imagen y deshacerlo,
+  manteniendo la imagen exacta del disco original. Así se evita tener varios backups.
+
+* Archivo utilizado:
+  Rayman (Europe) (En,Fr,De).bin
+  Región : SLES-00049
+  CRC    : 8BD591A1 o 518DD735 Platinum
+
+——————
+NOTAS:
+——————
+Juego completado sin errores. Añadidos: ¿ ¡ Á Ó Ñ
+No hay espacio para É Í Ú, pero apenas hay palabras que las requieran, 4 a lo sumo.
+Agradecimientos a Wave, Bunkai y Jackic por ayudarme con los subtítulos.
