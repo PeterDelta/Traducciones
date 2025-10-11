@@ -1,0 +1,20 @@
+Gauntlet IV (Mega Drive) v1.01
+Traducción al español por PeterDelta
+
+--------------
+Instrucciones:
+--------------
+* Para parchear la rom puedes usar LunarIPS o Floating IPS.
+* Si el emulador soporta parches ips, ponlo en la misma carpeta 
+que el juego con el mismo nombre.
+
+* Archivo utilizado:
+Gauntlet IV (USA, Europe).md
+MD5: 840f9f6fd4f22686b89cfd9a9ade105a
+SHA1: 26c26ee2bb9571d51537d9328a5fd2a91b4e9dc1
+CRC32: 3BF46DCE
+
+------
+Notas:
+------
+
