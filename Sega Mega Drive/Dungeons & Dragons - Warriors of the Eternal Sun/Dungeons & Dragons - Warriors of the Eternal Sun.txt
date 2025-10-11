@@ -1,0 +1,24 @@
+Dungeons & Dragons - Warriors of the Eternal Sun (Mega Drive) v0.99
+Traducción al español por PeterDelta
+
+--------------
+Instrucciones:
+--------------
+* Para parchear la rom puedes usar LunarIPS o Floating IPS.
+* Si el emulador soporta parches ips, ponlo en la misma carpeta 
+que el juego con el mismo nombre.
+
+* Archivo utilizado:
+Dungeons & Dragons - Warriors of the Eternal Sun (USA).md
+MD5: 4f5f970a5fe5936c897bae017d88921e
+SHA1: 9135f7fda03ef7da92dfade9c0df75808214f693
+CRC32: AF4A9CD7
+
+------
+Notas:
+------
+* Todo el juego traducido.
+* Insertados: Ñ ¿ ¡
+* Incluyo el manual traducido al español.
+* Completado de principio a fin sin errores.
+* Agradecimiento especial a xenophile por acceder al texto comprimido.

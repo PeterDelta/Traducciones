@@ -1,0 +1,20 @@
+Revolution X (Mega Drive) v1.0
+Traducción al español por PeterDelta
+
+--------------
+Instrucciones:
+--------------
+* Para parchear la rom puedes usar LunarIPS o Floating IPS.
+* Si el emulador soporta parches ips, ponlo en la misma carpeta 
+que el juego con el mismo nombre.
+
+* Archivo utilizado:
+Revolution X (USA, Europe).md
+MD5: ffc3b73dfe6f1f1817bbd5981a457385
+SHA1: e1c8011ff878c7d99236ddd4008dd284e1c28333
+CRC32: 5FB0C5D4
+
+------
+Notas:
+------
+

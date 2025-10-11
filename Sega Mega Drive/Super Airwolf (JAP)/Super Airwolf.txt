@@ -1,0 +1,19 @@
+Super Airwolf (Mega Drive) v1.0
+Traducción al español por PeterDelta
+
+--------------
+Instrucciones:
+--------------
+* Para parchear la rom puedes usar LunarIPS o Floating IPS.
+* Si el emulador soporta parches ips, ponlo en la misma carpeta 
+que el juego con el mismo nombre.
+
+* Archivo utilizado:
+Super Airwolf (Japan).md
+MD5: 84d0afc448834b369908e3b22ca6d9c2
+SHA1: d24a3d23c9f12eebfbd233fdaab91c4acc362962
+CRC32: FA451982
+
+------
+Notas:
+------
