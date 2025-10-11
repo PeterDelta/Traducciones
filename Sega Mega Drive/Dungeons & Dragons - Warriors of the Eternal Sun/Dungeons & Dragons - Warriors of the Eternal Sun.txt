@@ -1,0 +1,52 @@
+Dungeons & Dragons - Warriors of the Eternal Sun (Mega Drive) v0.86
+Traducción al español por PeterDelta
+
+--------------
+Instrucciones:
+--------------
+* Para parchear la rom puedes usar LunarIPS o Floating IPS.
+* Si el emulador soporta parches ips, ponlo en la misma carpeta 
+que el juego con el mismo nombre.
+
+* Archivo utilizado:
+Dungeons & Dragons - Warriors of the Eternal Sun (USA).md
+MD5: 4f5f970a5fe5936c897bae017d88921e
+SHA1: 9135f7fda03ef7da92dfade9c0df75808214f693
+CRC32: AF4A9CD7
+
+------
+Notas:
+------
+* Todo el juego traducido salvo la intro y pequeños textos que no puedo acceder.
+* Insertados: Ñ ¿ ¡. Excepto en los dialogos de la historia que no puedo acceder.
+* Incluyo el manual traducido al español.
+* Completado una vez de principio a fin sin errores.
+
+____________________________________________________
+------
+Intro:
+------
+THE GOBLIN WARS LASTED 13 MOONS.
+DUKE HECTOR BARRIK IS FORCED TO RETREAT TO HIS CASTLE.
+BEFORE THE GOBLINS ATTACK, THE EARTH BEGINS TO TREMBLE.
+THE SKY RIPS OPEN. MAN AND GOBLIN ALIKE ARE SUCKED INTO THE VOID.
+THE CASTLE HAS BEEN TRANSPORTED TO A VALLEY WITH IMPOSSIBLY HIGH CLIFFS. A RED SUN 
+FLARES, CIRCLED BY FLOATING CONTINENTS. THE HORIZON APPEARS AS THE BOTTOM OF A BASIN.
+----------------------------------------------------
+LAS GUERRAS DE LOS GOBLINS DURARON 13 LUNAS.
+EL DUQUE HÉCTOR BARRIK SE VE OBLIGADO A RETIRARSE A SU CASTILLO.
+ANTES DEL ATAQUE DE LOS GOBLINS, LA TIERRA EMPIEZA A TEMBLAR.
+EL CIELO SE DESGARRA. HOMBRES Y GOBLINS SON ABSORBIDOS POR EL VACÍO.
+EL CASTILLO HA SIDO TRANSPORTADO A UN VALLE CON ACANTILADOS DE ALTURA IMPOSIBLE. UN SOL ROJO 
+DESTELLA, RODEADO DE CONTINENTES FLOTANTES. EL HORIZONTE PARECE EL FONDO DE UNA CUENCA.
+____________________________________________________
+
+-------
+Muerte:
+-------
+YOUR ENTIRE PARTY HAS BEEN DEFEATED. THE TOWNSPEOPLE WENT 
+BERSERK AND DESTROYED WHAT WAS LEFT OF YOU CULTURE
+----------------------------------------------------
+TU GRUPO ENTERO HA SIDO DERROTADO. LOS ALDEANOS ENLOQUECIERON 
+Y DESTRUYERON LOS ÚLTIMOS VESTIGIOS DE TU CULTURA.
+____________________________________________________
