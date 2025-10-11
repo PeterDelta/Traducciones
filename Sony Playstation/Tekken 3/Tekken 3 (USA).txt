@@ -1,0 +1,14 @@
+Tekken 3 - USA (Playstation) v1.0a
+Traducción al español por PeterDelta
+https://peterdelta.blogspot.com/
+
+——————————————
+INSTRUCCIONES:
+——————————————
+* Duckstation soporta parches .ppf. No es necesario hacer nada en la imagen.
+* Con la herramienta "PPF Manager" se puede aplicar el parche en la imagen.
+
+* Archivo utilizado:
+  Tekken 3 (USA).bin
+  Región : SLUS-00402
+  CRC    : 0195EE6B
