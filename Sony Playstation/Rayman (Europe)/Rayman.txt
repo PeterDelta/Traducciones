@@ -1,4 +1,4 @@
-Rayman - PAL (Playstation) v1.01
+Rayman - PAL (Playstation) v1.02
 Traducción al español por PeterDelta
 https://peterdelta.blogspot.com/
 
@@ -12,10 +12,11 @@ INSTRUCCIONES:
 * Archivo utilizado:
   Rayman (Europe) (En,Fr,De).bin
   Región : SLES-00049
-  CRC    : 8BD591A1
+  CRC    : 8BD591A1 o 518DD735 Platinum
 
 ——————
 NOTAS:
 ——————
 Juego completado sin errores. Añadidos: ¿ ¡ Á Ó Ñ
 No hay espacio para É Í Ú, pero apenas hay palabras que las requieran, 4 a lo sumo.
+Agradecimientos a Wave, Bunkai y Jackic para añadir subtitítulos a los videos
