@@ -1,4 +1,4 @@
-Apocalypse - PAL (Playstation) v1.0
+Apocalypse - PAL (Playstation) v1.01
 Traducción al español por PeterDelta
 https://peterdelta.blogspot.com/
 
@@ -13,3 +13,10 @@ INSTRUCCIONES:
   Apocalypse (Europe).bin
   Región : SLES-00460
   CRC    : 7EC6604B
+
+——————
+NOTAS:
+——————
+Esta versión solo tiene subtitulada la intro.
+La versión 1.1 que añade subtítulos a todos los videos, se encuentra aquí:
+https://peterdelta.blogspot.com/2026/01/traduccion-apocalypse-ps1.html
